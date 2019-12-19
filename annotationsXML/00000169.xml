@@ -1,1 +1,0 @@
-<annotations><filename>00000169.JPEG</filename><folder>images</folder><size><width>2500</width><height>1666</height><depth>3</depth></size><object><name>Car</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>375.0</xmin><ymin>557.9999999999999</ymin><xmax>1653.0</xmax><ymax>969.9999999999999</ymax></bndbox></object></annotations>
